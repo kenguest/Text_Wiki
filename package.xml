@@ -33,7 +33,7 @@ It is highly configurable and can be easily extended.</description>
  <date>2019-03-13</date>
  <time>00:16:10</time>
  <version>
-  <release>1.2.3</release>
+  <release>1.2.4</release>
   <api>1.2.0</api>
  </version>
  <stability>
@@ -541,7 +541,7 @@ Req #20274 Closed Please Provides LICENSE file
   </release>
   <release>
    <version>
-    <release>1.2.3</release>
+    <release>1.2.4</release>
     <api>1.2.0</api>
    </version>
    <stability>
